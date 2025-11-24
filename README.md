@@ -52,7 +52,7 @@ WorkHere allows students to quickly find study locations through meaningful data
 ## 4. How To Run
 
 Click to try the website:
-https://workhere.netlify.app
+https://judyzhang112.github.io/workhere/
 
 1. Open the project
 index.html ← the entire app runs here
